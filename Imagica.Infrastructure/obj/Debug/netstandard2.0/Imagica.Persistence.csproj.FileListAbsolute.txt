@@ -1,0 +1,12 @@
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\bin\Debug\netstandard2.0\Imagica.Persistence.deps.json
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\bin\Debug\netstandard2.0\Imagica.Persistence.dll
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\bin\Debug\netstandard2.0\Imagica.Persistence.pdb
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\bin\Debug\netstandard2.0\Imagica.Domain.dll
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\bin\Debug\netstandard2.0\Imagica.Domain.pdb
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\obj\Debug\netstandard2.0\Imagica.Persistence.csprojResolveAssemblyReference.cache
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\obj\Debug\netstandard2.0\Imagica.Persistence.csproj.CoreCompileInputs.cache
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\obj\Debug\netstandard2.0\Imagica.Persistence.AssemblyInfoInputs.cache
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\obj\Debug\netstandard2.0\Imagica.Persistence.AssemblyInfo.cs
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\obj\Debug\netstandard2.0\Imagica.Persistence.csproj.CopyComplete
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\obj\Debug\netstandard2.0\Imagica.Persistence.dll
+D:\Vinay\Imagica\Imagica\Tralive.Infrastructure\obj\Debug\netstandard2.0\Imagica.Persistence.pdb
