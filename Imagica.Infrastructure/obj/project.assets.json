@@ -4748,8 +4748,8 @@
     },
     "Imagica.Domain/1.0.0": {
       "type": "project",
-      "path": "../Tralive.Domain/Imagica.Domain.csproj",
-      "msbuildProject": "../Tralive.Domain/Imagica.Domain.csproj"
+      "path": "../Imagica.Domain/Imagica.Domain.csproj",
+      "msbuildProject": "../Imagica.Domain/Imagica.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4768,11 +4768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Infrastructure\\Imagica.Persistence.csproj",
+      "projectUniqueName": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Infrastructure\\Imagica.Persistence.csproj",
       "projectName": "Imagica.Persistence",
-      "projectPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Infrastructure\\Imagica.Persistence.csproj",
+      "projectPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Infrastructure\\Imagica.Persistence.csproj",
       "packagesPath": "C:\\Users\\vambativ031116\\.nuget\\packages\\",
-      "outputPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Infrastructure\\obj\\",
+      "outputPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4791,8 +4791,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Vinay\\Imagica\\Imagica\\Tralive.Domain\\Imagica.Domain.csproj": {
-              "projectPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Domain\\Imagica.Domain.csproj"
+            "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Domain\\Imagica.Domain.csproj": {
+              "projectPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Domain\\Imagica.Domain.csproj"
             }
           }
         }

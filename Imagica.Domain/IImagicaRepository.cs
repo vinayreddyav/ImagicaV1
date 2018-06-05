@@ -2,25 +2,19 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Tralive.Domain
+namespace Imagica.Domain
 {
     public interface IImagicaRepository
     {
-        bool SaveTradeTransaction(List<TradeTransaction> tradeTransactions);
 
-        int GetLatestVersion();
+        bool SaveAlternativeTitles(RootObject alternativeTitles);
 
-        bool UpdateCustomers(List<Customers> customers);
+        bool SaveAlternativeValues(RootObjectValues alternativeValues);
 
-        List<string> GetCustomers();
+        RootObject FetchAlternativeTitles();
 
-        List<string> GetSteps();
+        RootObjectValues FetchAlternativeValues();
 
-        bool SaveTradeConfiguration(TradeConfiguration tradeTransactions);
-
-        TradeConfiguration GetTradeConfiguration();
-
-        List<TradeTransaction> GetLatestTransactions(int version);
-
+        
     }
 }

@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tralive.Domain\Imagica.Domain.csproj" />
-    <ProjectReference Include="..\Tralive.Infrastructure\Imagica.Persistence.csproj" />
+    <ProjectReference Include="..\Imagica.Domain\Imagica.Domain.csproj" />
+    <ProjectReference Include="..\Imagica.Infrastructure\Imagica.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

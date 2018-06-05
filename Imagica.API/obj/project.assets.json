@@ -13826,13 +13826,13 @@
     },
     "Imagica.Domain/1.0.0": {
       "type": "project",
-      "path": "../Tralive.Domain/Imagica.Domain.csproj",
-      "msbuildProject": "../Tralive.Domain/Imagica.Domain.csproj"
+      "path": "../Imagica.Domain/Imagica.Domain.csproj",
+      "msbuildProject": "../Imagica.Domain/Imagica.Domain.csproj"
     },
     "Imagica.Persistence/1.0.0": {
       "type": "project",
-      "path": "../Tralive.Infrastructure/Imagica.Persistence.csproj",
-      "msbuildProject": "../Tralive.Infrastructure/Imagica.Persistence.csproj"
+      "path": "../Imagica.Infrastructure/Imagica.Persistence.csproj",
+      "msbuildProject": "../Imagica.Infrastructure/Imagica.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13853,11 +13853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vinay\\Imagica\\Imagica\\Tralive.API\\Imagica.API.csproj",
+      "projectUniqueName": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.API\\Imagica.API.csproj",
       "projectName": "Imagica.API",
-      "projectPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.API\\Imagica.API.csproj",
+      "projectPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.API\\Imagica.API.csproj",
       "packagesPath": "C:\\Users\\vambativ031116\\.nuget\\packages\\",
-      "outputPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.API\\obj\\",
+      "outputPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13876,11 +13876,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Vinay\\Imagica\\Imagica\\Tralive.Domain\\Imagica.Domain.csproj": {
-              "projectPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Domain\\Imagica.Domain.csproj"
+            "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Domain\\Imagica.Domain.csproj": {
+              "projectPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Domain\\Imagica.Domain.csproj"
             },
-            "D:\\Vinay\\Imagica\\Imagica\\Tralive.Infrastructure\\Imagica.Persistence.csproj": {
-              "projectPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Infrastructure\\Imagica.Persistence.csproj"
+            "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Infrastructure\\Imagica.Persistence.csproj": {
+              "projectPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Infrastructure\\Imagica.Persistence.csproj"
             }
           }
         }

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imagica.API", "Tralive.API\Imagica.API.csproj", "{B5B4C2D6-45DD-47C0-BC3A-6921621298C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imagica.API", "Imagica.API\Imagica.API.csproj", "{B5B4C2D6-45DD-47C0-BC3A-6921621298C1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imagica.Domain", "Tralive.Domain\Imagica.Domain.csproj", "{62361CEC-35B1-4BFB-84C9-641339A521A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imagica.Domain", "Imagica.Domain\Imagica.Domain.csproj", "{62361CEC-35B1-4BFB-84C9-641339A521A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imagica.Persistence", "Tralive.Infrastructure\Imagica.Persistence.csproj", "{D29FB7E8-690B-41B0-B2D5-CECEF05955DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imagica.Persistence", "Imagica.Infrastructure\Imagica.Persistence.csproj", "{D29FB7E8-690B-41B0-B2D5-CECEF05955DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

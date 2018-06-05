@@ -13,7 +13,7 @@ using Microsoft.IdentityModel.Tokens;
 using Tralive.API.Application.Models;
 using Microsoft.Extensions.Configuration;
 
-namespace Tralive.API.Controllers
+namespace Imagica.API.Controllers
 {
     [Produces("application/json")] 
     [Route("api/User")]

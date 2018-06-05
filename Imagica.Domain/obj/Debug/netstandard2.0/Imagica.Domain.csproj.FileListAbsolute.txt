@@ -7,3 +7,12 @@ D:\Vinay\Imagica\Imagica\Tralive.Domain\obj\Debug\netstandard2.0\Imagica.Domain.
 D:\Vinay\Imagica\Imagica\Tralive.Domain\obj\Debug\netstandard2.0\Imagica.Domain.AssemblyInfo.cs
 D:\Vinay\Imagica\Imagica\Tralive.Domain\obj\Debug\netstandard2.0\Imagica.Domain.dll
 D:\Vinay\Imagica\Imagica\Tralive.Domain\obj\Debug\netstandard2.0\Imagica.Domain.pdb
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\bin\Debug\netstandard2.0\Imagica.Domain.deps.json
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\bin\Debug\netstandard2.0\Imagica.Domain.dll
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\bin\Debug\netstandard2.0\Imagica.Domain.pdb
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\obj\Debug\netstandard2.0\Imagica.Domain.csprojResolveAssemblyReference.cache
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\obj\Debug\netstandard2.0\Imagica.Domain.csproj.CoreCompileInputs.cache
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\obj\Debug\netstandard2.0\Imagica.Domain.AssemblyInfoInputs.cache
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\obj\Debug\netstandard2.0\Imagica.Domain.AssemblyInfo.cs
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\obj\Debug\netstandard2.0\Imagica.Domain.dll
+D:\Vinay\Imagica\ImagicaV1\Imagica.Domain\obj\Debug\netstandard2.0\Imagica.Domain.pdb

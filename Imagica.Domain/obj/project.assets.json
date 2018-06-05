@@ -2562,11 +2562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Domain\\Imagica.Domain.csproj",
+      "projectUniqueName": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Domain\\Imagica.Domain.csproj",
       "projectName": "Imagica.Domain",
-      "projectPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Domain\\Imagica.Domain.csproj",
+      "projectPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Domain\\Imagica.Domain.csproj",
       "packagesPath": "C:\\Users\\vambativ031116\\.nuget\\packages\\",
-      "outputPath": "D:\\Vinay\\Imagica\\Imagica\\Tralive.Domain\\obj\\",
+      "outputPath": "D:\\Vinay\\Imagica\\ImagicaV1\\Imagica.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

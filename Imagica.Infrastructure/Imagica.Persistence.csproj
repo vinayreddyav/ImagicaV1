@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tralive.Domain\Imagica.Domain.csproj" />
+    <ProjectReference Include="..\Imagica.Domain\Imagica.Domain.csproj" />
   </ItemGroup>
 
 </Project>
