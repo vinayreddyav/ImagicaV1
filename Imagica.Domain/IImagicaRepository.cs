@@ -7,13 +7,13 @@ namespace Imagica.Domain
     public interface IImagicaRepository
     {
 
-        bool SaveAlternativeTitles(RootObject alternativeTitles);
+        bool SaveAlternativeTitles(AlternativeTitles alternativeTitles);
 
-        bool SaveAlternativeValues(RootObjectValues alternativeValues);
+        bool SaveAlternativeValues(AlternativeValues  alternativeValues);
 
-        RootObject FetchAlternativeTitles();
+        AlternativeTitles FetchAlternativeTitles();
 
-        RootObjectValues FetchAlternativeValues();
+        AlternativeValues FetchAlternativeValues();
 
         
     }

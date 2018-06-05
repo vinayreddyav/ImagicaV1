@@ -16,28 +16,24 @@ namespace Imagica.Persistence
             database = new MongoClient(connectionString).GetDatabase(databaseName);
         }
 
-        //public IMongoCollection<TradeTransaction> Transaction
-        //{
-        //    get
-        //    {
-        //        return database.GetCollection<TradeTransaction>(MonogdbCollectionName.Transaction);
-        //    }
-        //}
 
-        //public IMongoCollection<Customers> Customer
-        //{
-        //    get
-        //    {
-        //        return database.GetCollection<Customers>(MonogdbCollectionName.Customer);
-        //    }
-        //}
 
-        //public IMongoCollection<TradeConfiguration> Configuration
-        //{
-        //    get
-        //    {
-        //        return database.GetCollection<TradeConfiguration>(MonogdbCollectionName.Configuration);
-        //    }
-        //}
+        public IMongoCollection<AlternativeTitles> AlternativeTitles
+        {
+            get
+            {
+                return database.GetCollection<AlternativeTitles>(MonogdbCollectionName.AlternativeTitles);
+            }
+        }
+
+        public IMongoCollection<AlternativeValues> AlternativeValues
+        {
+            get
+            {
+                return database.GetCollection<AlternativeValues>(MonogdbCollectionName.AlternativeValues);
+            }
+        }
+
+       
     }
 }

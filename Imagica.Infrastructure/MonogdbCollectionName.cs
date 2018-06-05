@@ -1,9 +1,8 @@
-﻿namespace Tralive.Persistence
+﻿namespace Imagica.Persistence
 {
     public static class MonogdbCollectionName
     {
-        public const string Transaction = "Transaction";
-        public const string Customer = "Customer";
-        public const string Configuration = "Configuration";
+        public const string AlternativeTitles = "AlternativeTitles";
+        public const string AlternativeValues = "AlternativeValues";
     }
 }

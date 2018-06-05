@@ -32,12 +32,15 @@ namespace Imagica.API.Controllers
         
         [HttpPost]
         [Route("SaveAlternateTitles")]
-        public Task<bool> SaveTradeTransaction([FromBody] RootObject alternateTitles)
+        public Task<bool> SaveTradeTransaction([FromBody] AlternativeTitles alternateTitles)
         {
             bool res = false;
             try
             {
-                //var res = _repository.SaveTradeTransaction(destination);
+                //Save the user TODO: Get login userid
+                alternateTitles.CreatedBy = "Admin";
+                alternateTitles.CreatedDate = DateTime.Now;
+                res = _repository.SaveAlternativeTitles(alternateTitles);
             }
             catch (Exception ex)
             {
@@ -50,14 +53,15 @@ namespace Imagica.API.Controllers
 
         [HttpPost]
         [Route("SaveAlternateValues")]
-        public Task<bool> SaveAlternativeValues([FromBody] RootObjectValues alternateValues)
+        public Task<bool> SaveAlternativeValues([FromBody] AlternativeValues alternateValues)
         {
             bool res = false;
             try
             {
-                //var latestVersion = _repository.GetLatestVersion();
-                //var destination = new Helper(latestVersion).TradeTransactionDTOToTradeTransaction.Map<List<TradeTransactionDTO>, List<TradeTransaction>>(transactionDTO);
-                //var res = _repository.SaveTradeTransaction(destination);
+                //Save the user TODO: Get login userid
+                alternateValues.CreatedBy = "Admin";
+                alternateValues.CreatedDate = DateTime.Now;
+                res = _repository.SaveAlternativeValues(alternateValues);
             }
             catch (Exception ex)
             {
@@ -67,9 +71,41 @@ namespace Imagica.API.Controllers
         }
 
 
-        
+        [HttpGet("FetchAlternativeTitles")]
+        public Task<AlternativeTitles> FetchAlternativeTitles()
+        {
+            AlternativeTitles res = new AlternativeTitles();
+            try
+            {
+               res = _repository.FetchAlternativeTitles();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return Task.FromResult<AlternativeTitles>(res);
+        }
 
-        
+
+        [HttpGet("FetchAlternativeValues")]
+        public Task<AlternativeValues> FetchAlternativeValues()
+        {
+            AlternativeValues res = new AlternativeValues();
+            try
+            {
+                res = _repository.FetchAlternativeValues();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return Task.FromResult<AlternativeValues>(res);
+        }
+
+
+
+
+
     }
     
 }

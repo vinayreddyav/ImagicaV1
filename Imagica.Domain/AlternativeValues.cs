@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -58,13 +60,19 @@ namespace Imagica.Domain
 
 
 
-    public class RootObjectValues
+    public class AlternativeValues
     {
+        [BsonId()]
+        public ObjectId _id { get; set; }
         public OPTIONTYPE OPTION_TYPE { get; set; }
         public CURRENCY CURRENCY { get; set; }
         public BROKERFEESCCY BROKER_FEES_CCY { get; set; }
         public BUYSELL BUY_SELL { get; set; }
         public Object UNDERLYING_NAME { get; set; }
+
+        public string CreatedBy { get; set; }
+
+        public DateTime CreatedDate { get; set; }
     }
 
 }

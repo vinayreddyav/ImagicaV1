@@ -19,24 +19,49 @@ namespace Imagica.Persistence
             _collections = new DatabaseContext(connectionString, databaseName);
         }
 
-        public RootObject FetchAlternativeTitles()
+        public AlternativeTitles FetchAlternativeTitles()
         {
-            throw new NotImplementedException();
+            return _collections.AlternativeTitles
+                .Find(Builders<AlternativeTitles>.Filter.Empty)
+                .Sort(new BsonDocument { { "CreatedDate", -1 } })
+                .ToList().FirstOrDefault();
+           
         }
 
-        public RootObjectValues FetchAlternativeValues()
+        public AlternativeValues FetchAlternativeValues()
         {
-            throw new NotImplementedException();
+            return _collections.AlternativeValues
+                .Find(Builders<AlternativeValues>.Filter.Empty)
+                .Sort(new BsonDocument { { "CreatedDate", -1 } })
+                .ToList().FirstOrDefault();
         }
 
-        public bool SaveAlternativeTitles(RootObject alternativeTitles)
+        public bool SaveAlternativeTitles(AlternativeTitles alternativeTitles)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _collections.AlternativeTitles.InsertOneAsync(alternativeTitles);
+            }
+            catch (Exception)
+            {
+                throw;                
+            }
+            
+            return true;
         }
 
-        public bool SaveAlternativeValues(RootObjectValues alternativeValues)
+        public bool SaveAlternativeValues(AlternativeValues alternativeValues)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _collections.AlternativeValues.InsertOneAsync(alternativeValues);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+
+            return true;
         }
 
 
