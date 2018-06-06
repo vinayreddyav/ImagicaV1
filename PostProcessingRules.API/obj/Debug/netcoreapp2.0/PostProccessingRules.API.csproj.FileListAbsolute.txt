@@ -1,0 +1,15 @@
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProccessingRules.API.deps.json
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProccessingRules.API.runtimeconfig.json
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProccessingRules.API.runtimeconfig.dev.json
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProccessingRules.API.dll
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProccessingRules.API.pdb
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProcessingRules.Domain.dll
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProcessingRules.Persistence.dll
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProcessingRules.Domain.pdb
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\bin\Debug\netcoreapp2.0\PostProcessingRules.Persistence.pdb
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\obj\Debug\netcoreapp2.0\PostProccessingRules.API.csprojResolveAssemblyReference.cache
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\obj\Debug\netcoreapp2.0\PostProccessingRules.API.csproj.CoreCompileInputs.cache
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\obj\Debug\netcoreapp2.0\PostProccessingRules.API.AssemblyInfoInputs.cache
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\obj\Debug\netcoreapp2.0\PostProccessingRules.API.AssemblyInfo.cs
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\obj\Debug\netcoreapp2.0\PostProccessingRules.API.dll
+C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.API\obj\Debug\netcoreapp2.0\PostProccessingRules.API.pdb
