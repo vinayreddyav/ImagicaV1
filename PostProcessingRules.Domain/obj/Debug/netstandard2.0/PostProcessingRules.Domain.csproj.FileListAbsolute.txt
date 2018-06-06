@@ -1,9 +1,0 @@
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\bin\Debug\netstandard2.0\PostProcessingRules.Domain.deps.json
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\bin\Debug\netstandard2.0\PostProcessingRules.Domain.dll
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\bin\Debug\netstandard2.0\PostProcessingRules.Domain.pdb
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\obj\Debug\netstandard2.0\PostProcessingRules.Domain.csprojResolveAssemblyReference.cache
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\obj\Debug\netstandard2.0\PostProcessingRules.Domain.csproj.CoreCompileInputs.cache
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\obj\Debug\netstandard2.0\PostProcessingRules.Domain.AssemblyInfoInputs.cache
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\obj\Debug\netstandard2.0\PostProcessingRules.Domain.AssemblyInfo.cs
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\obj\Debug\netstandard2.0\PostProcessingRules.Domain.dll
-C:\Users\vinay\Documents\WorkingEnvironment\Imagica\ImagicaV1\PostProcessingRules.Domain\obj\Debug\netstandard2.0\PostProcessingRules.Domain.pdb
